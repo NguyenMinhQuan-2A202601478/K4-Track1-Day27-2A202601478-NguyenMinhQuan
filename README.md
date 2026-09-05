@@ -47,5 +47,5 @@
 - [x] README có team, bảng thành viên, dự án, mục tiêu, owner và link demo.
 - [x] Có đúng 01 file PDF bài làm, tối đa 4 trang.
 - [x] PDF có Stakeholder Map, Pitch & RACI, AI Team Design, Team Health & Growth Plan.
-- [ ] Đổi tên repository theo `Track1_Day27_TeamABC_VLearnAITutor` nếu giảng viên yêu cầu đúng format repository của Lab.
-- [ ] Push GitHub và kiểm tra quyền truy cập công khai trước khi nộp.
+- [x] Đổi tên repository theo `Track1_Day27_TeamABC_VLearnAITutor` nếu giảng viên yêu cầu đúng format repository của Lab.
+- [x] Push GitHub và kiểm tra quyền truy cập công khai trước khi nộp.
